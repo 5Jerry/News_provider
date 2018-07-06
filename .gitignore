@@ -69,6 +69,7 @@ captures/
 # IntelliJ
 
 *.iml
+.idea/
 
 .idea/workspace.xml
 
